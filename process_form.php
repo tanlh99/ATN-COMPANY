@@ -24,6 +24,7 @@ $cat = pg_escape_string($link,$_REQUEST['cat']);
 $date =  pg_escape_string($link,$_REQUEST['date']);
 $price =  pg_escape_string($link,$_REQUEST['price']);
 $description = pg_escape_string($link,$_REQUEST['description']);
+
 echo "<br>";
 echo "Product ID: " ;
 echo $id."<br>";
