@@ -366,15 +366,13 @@ textarea.input100 {
 /*------------------------------------------------------------------
 [ Button ]*/
 .container-contact100-form-btn {
-  width: 100%;
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -moz-box;
-  display: -ms-flexbox;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  padding-top: 23px;
+border-style: solid;
+color: white;
+background-color: #00ad5f;
+padding-left: 10px;
+padding-right: 10px;
+padding-top: 10px;
+padding-bottom: 10px;
 }
 
 .contact100-form-btn {
